@@ -1,4 +1,4 @@
-const express = require('express') // create web server
+const express = require('express') 
 var cookieParser = require('cookie-parser') // for parsing cookie data in front end
 const path = require('path') // Node.js built-in lib, work w/ dirs
 const bodyParser = require('body-parser') // For parsing html requests
